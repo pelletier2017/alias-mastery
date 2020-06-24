@@ -60,5 +60,5 @@
 ## Exercise
 This is a simple chain of commands that we will build upon.
 1. Copy the contents of the file `params.txt` into a file onto your computer. It is a file containing a list of key/value pairs.
-2. Use grep (listed above) to find the key "user".
+2. Use grep (listed above) to find the key "user". Hint: `grep "pattern" filename`
 3. Create a file `user.txt` that just contains the value of the user. For example if the line found in `params.txt` was "user=john" then put "john" into the file "user.txt".
