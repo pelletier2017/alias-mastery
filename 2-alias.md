@@ -3,7 +3,6 @@
 ### Creating an alias
 
 ``` bash
-# note the quotes around the command
 $ alias myAlias="echo hello"
 ```
 
@@ -16,6 +15,7 @@ alias myAlias="echo hello"
 ### Use alias
 ``` bash
 $ myAlias
+hello
 ```
 
 Aliases only last until you close your terminal. So to make them persist, we have to add the alias to a file that will be loaded whenever a new terminal is opened. On linux and mac, these files are `~/.bash_profile` or `~/.bash_rc`.
