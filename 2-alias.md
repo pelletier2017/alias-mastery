@@ -34,5 +34,5 @@ source ~/.bash_profile
 
 Exercise:
 1. Inside of your `~/.bash_profile` create an alias to list all files in your home directory an call it "ls_home"
-2. source your `.bash_profile` to load the alias
+2. source your `~/.bash_profile` to load the alias
 3. use the command `alias` to confirm it was loaded and run it with `ls_home`
