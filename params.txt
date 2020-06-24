@@ -1,0 +1,10 @@
+name=bob
+occupation=fry cook
+location=bikini bottom
+age=50
+color=yellow
+driving_ability=poor
+best_friend=patrick
+user=squarepants
+hobby=jellyfishing
+enemy=plankton
