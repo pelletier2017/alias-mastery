@@ -1,4 +1,4 @@
-# alias-mastery
+# alias-mastery (automate the boring stuff with ~~python~~ bash
 This is a short presentation showing steps to make bash aliases and functions to make terminal workflow easier along with a few exercises to test out these skills.
 
 ### Prereq:
