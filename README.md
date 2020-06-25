@@ -1,6 +1,9 @@
 # alias-mastery
 This is a short presentation showing steps to make bash aliases and functions to make terminal workflow easier along with a few exercises to test out these skills.
 
+### Prereq:
+Have a terminal with some form of unix-like shell. Mac terminal, Linux subsystem for windows, or a linux bash terminal will all work.
+
  1. [list Linux commands](1-linuxCommands.md)
  2. [bash alias](2-alias.md)
  3. [pipe and redirection](3-pipeAndRedirection.md)
